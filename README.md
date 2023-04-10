@@ -29,9 +29,8 @@ legitimate URLs from malicious URLs, testing assumptions against what was found
 
 With the above image I set the URL length for the y-axis and compared several features to determine if the assumption that malicious URLs tend to be longer than legitimate ones which proved to be correct.
 
-![Ratio of empy links](https://user-images.githubusercontent.com/112634963/202641651-b90ec012-6c92-4ea1-8992-ab35db3a018e.png)
 
-With this visualization, I tested another assumption that malicious URLs try to have the same number of links as authentic URLs, but given their nature most of these hyperlinks would be empty. This assumption was debunked in our data as both legitimate and phishing URLs don't have any empty hyperlinks.
+Other visualizations returned empty graphs. For example, I tested another assumption that malicious URLs try to have the same number of links as authentic URLs, but given their nature most of these hyperlinks would be empty. This assumption was debunked in our data as both legitimate and phishing URLs don't have any empty hyperlinks.
 
 
 # Model
