@@ -1,5 +1,5 @@
-# Visualization and Modeling of Sales Prices
-Perform data visualization on Features and Regression Models on Future Sale Prices of Items
+# Visualization and Modeling for URL Phishing Attempts
+Perform data visualization on Features and Regression Models for predicting when a URL is malicious
 
 **Santos A. Romero**
 
